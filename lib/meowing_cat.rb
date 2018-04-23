@@ -1,2 +1,3 @@
 ## code your solution here.
-:maru = Cat.new
+class Cat
+end
